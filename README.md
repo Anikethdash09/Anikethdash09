@@ -1,3 +1,4 @@
+![logo](https://github.com/Anikethdash09/Anikethdash09/blob/main/ass.jpg)
 <h1 align="center">Hi 👋, I'm Aniketh Dash</h1>
 <h3 align="center">A passionate UI developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/b0b58ffa7bd7542a0445f0bbaffb2c9a.gif">
