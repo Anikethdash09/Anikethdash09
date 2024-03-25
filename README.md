@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikethdash09&label=Profile%20views&color=0e75b6&style=flat" alt="anikethdash09" /> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **Food delivery app**
 
 - 🌱 I’m currently learning **Flutter**
 
